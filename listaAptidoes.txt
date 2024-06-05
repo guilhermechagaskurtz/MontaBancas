@@ -1,0 +1,36 @@
+﻿Administração Linux
+Algoritmos e Estrutura de dados
+Banco de dados
+Cloud Computing
+Compiladores
+Complexidade de Algoritmos
+Computação Científica
+Computação forense
+Computação Gráfica
+Computação Móvel
+Computação na música
+Computação Ubíqua e Pervasiva
+Desenvolvimento de Software
+Eletrônica
+Engenharia de SW
+Gerência de TI
+Hipermídia e Multimídia
+Informática na Educação
+Inteligência Artificial
+Mineração de Dados
+Modelagem e Simulação
+Nanotecnologia
+Otimização Computacional
+Processamento de Imagens
+Processamento de Linguagens
+Programação Paralela
+Projeto/Requisitos de SW
+Redes de Computadores
+Segurança
+Sistemas Cooperativos
+Sistemas de Informação
+Sistemas Distribuídos
+Sistemas Móveis
+Sistemas Operacionais
+Tolerância a Falhas
+Web Semantica
